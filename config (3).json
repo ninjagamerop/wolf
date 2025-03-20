@@ -1,0 +1,14 @@
+{
+    "VPS_LIST": [
+        {"ip": "70.34.221.30", "user": "master_qtmmswcrpr", "password": "QA9BY82tspA5", "busy": false},
+        {"ip": "65.20.85.210", "user": "master_rsbgmgrdwp", "password": "G5watemzE24E", "busy": false},
+        {"ip": "65.20.84.33", "user": "master_wvmwqtdrjd", "password": "xAe9YwDKV3AK", "busy": false},
+        {"ip": "70.34.217.10", "user": "master_mugrnktzyu", "password": "XaPwWzH8we23", "busy": false},
+        {"ip": "45.76.191.185", "user": "master_hkvsudnekt", "password": "Ud5F3dgYr4yg", "busy": false},
+        {"ip": "65.20.75.185", "user": "master_ydwdndrprs", "password": "SdttWUS5ed5k", "busy": false}
+        
+    ]
+}
+
+
+
